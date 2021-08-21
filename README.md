@@ -1,5 +1,13 @@
+<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
+
 <h1 align="center">Hi 👋, I'm Ankush Agarwal</h1>
 <h3 align="center">I'm Pursuing my B.Tech in Computer Science Engineering (CSE). I am a proactive individual with superior skills in Web Development, Game Development, C, C++, PYTHON. Eager to bring value to industry establishment through hardwork and commitment to quality. I am also an active competitive coder. I am good at Dynamic programming, Data structure and algorithms.</h3>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+- 🔭 I’m currently working on **Optimised Algorithms.**
+
+- 👯 I’m looking to collaborate on **open source projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
